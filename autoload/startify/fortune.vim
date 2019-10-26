@@ -6,8 +6,7 @@ let s:log = [
       \'   \_/_/_/ /_/ /_/ ,___/_/\____/____/        ',
       \'                /_/                          ',
       \'                                             ',
-      \'Author: chxuan <787280310@qq.com>            ',
-      \'Repository: https://github.com/chxuan/vimplus',
+      \' Keep It Simple, Stupid.                     ',
       \ ]
 
 function! s:get_random_offset(max) abort
